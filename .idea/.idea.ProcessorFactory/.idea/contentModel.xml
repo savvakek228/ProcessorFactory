@@ -25,6 +25,12 @@
             </e>
           </e>
         </e>
+        <e p="ProcessingAlgorithms" t="Include">
+          <e p="Maximizer.cs" t="Include" />
+          <e p="Minimizer.cs" t="Include" />
+          <e p="Multiplier.cs" t="Include" />
+          <e p="Summator.cs" t="Include" />
+        </e>
         <e p="ProcessorFactory.csproj" t="IncludeRecursive" />
         <e p="SequenceBuilder.cs" t="Include" />
       </e>
